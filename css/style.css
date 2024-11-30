@@ -145,10 +145,10 @@ a, a:hover{
     padding-top: 80px;
     position: relative;
 }
-.testimonials .right-testimonials .bike-flow{
-    width: 32%;
+.testimonials .right-testimonials .bike-flow {
+    width: 25%;
     margin-top: -180px;
-    margin-left: -140px;
+    margin-left: -135px;
     position: absolute;
 }
 .right-testimonials .item{
